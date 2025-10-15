@@ -2,45 +2,43 @@
 
 ![Brainwave Banner](./d7d4f522-a6ef-4d59-a81d-6caf8b4355a1.png)
 
-## 🚀 Explore the Possibilities of AI Chatting with Brainwave
+**Brainwave** is a modular React project featuring a clean codebase, reusable components, and a responsive layout system. It showcases modern front-end workflows — from component-driven design to optimized build performance.
 
-**Brainwave** is a sleek, modern React web app that unleashes the potential of AI-powered chatting.  
-Designed for productivity, creativity, and seamless interaction — it’s your next-generation AI companion.  
-
-🔗 **Live Preview:** [brainwave-smart-ai.netlify.app](https://brainwave-smart-ai.netlify.app/)
+🔗 **Live Preview**: [https://brainwave-smart-ai.netlify.app/](https://brainwave-smart-ai.netlify.app/)
 
 ---
 
-## 🧩 Features
+## 🌟 Features
 
-- 💬 **AI-Powered Conversations** — Chat naturally with advanced AI models.  
-- ⚡ **Modern UI/UX** — Built with React and Tailwind CSS for smooth animations and responsive design.  
-- 🧠 **Productivity Booster** — Simplify your workflow with AI-assisted insights.  
-- 🎨 **Stunning Visuals** — Gradient aesthetics and futuristic design elements.  
-- 📱 **Fully Responsive** — Optimized for all devices.
+- 💬 AI-powered conversation interface  
+- 🎨 Polished UI built with React + Tailwind CSS  
+- 📦 Modular architecture & reusable components  
+- 📱 Fully responsive design  
+- ⚙️ Optimized build using Vite  
 
 ---
 
-## 📸 Screenshots
+## 🖼️ Screenshots  
 
-### 💻 Desktop View
-![Brainwave Desktop](./d7d4f522-a6ef-4d59-a81d-6caf8b4355a1.png)
+**Desktop View**  
+![Desktop Screenshot](./d7d4f522-a6ef-4d59-a81d-6caf8b4355a1.png)  
 
-### 📱 Mobile View
-![Brainwave Mobile](./924d1276-7b4b-4880-b571-4c4b88798d45.png)
+**Mobile / Responsive View**  
+![Mobile Screenshot](./924d1276-7b4b-4880-b571-4c4b88798d45.png)  
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **React.js**
-- **Tailwind CSS**
-- **Vite**
-- **Netlify (for deployment)**
+- React  
+- Tailwind CSS  
+- Vite  
+- Netlify (for deployment)  
 
 ---
 
-## 🧑‍💻 Getting Started
+## 🚀 Getting Started
 
-### 1️⃣ Clone the repository
-```
+1. **Clone the repo**
+   ```bash
+   git clone https://github.com/codexpro-dev/Brainwave.git
